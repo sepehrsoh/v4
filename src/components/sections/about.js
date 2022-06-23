@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Sepehr and I am software engineer. Here I will share some of my
-              experience and challenges I had since far
+              experience and challenges I have had since far
             </p>
 
             {/*<p>*/}
